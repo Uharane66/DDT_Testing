@@ -1,0 +1,1 @@
+pytest -v -s "C:\Users\Shree\Desktop\allfiles\tushar\DDT_Testing\Pytest_Credkart1" --html=HTMLReports/firefox_reports.html --browser firefox

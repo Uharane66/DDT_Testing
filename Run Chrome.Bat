@@ -1,0 +1,1 @@
+pytest -v -s --html=HTMLReports/ChromeReport.html --browser chrome  "C:\Users\Shree\Desktop\allfiles\tushar\DDT_Testing\Pytest_Credkart1"
